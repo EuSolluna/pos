@@ -1,0 +1,21 @@
+/* style.css */
+
+body {
+    /* Adiciona o degradê ao fundo do corpo */
+    background: linear-gradient(to right, #FFD700, #800080, #0000FF);
+}
+
+h2 {
+    /* Estiliza a tag h2 */
+    color: #FFFFFF; /* Texto branco */
+}
+
+.login-button {
+    /* Estiliza o botão de login */
+    background-color: #0000FF; /* Azul */
+    color: #FFFFFF; /* Texto branco */
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
